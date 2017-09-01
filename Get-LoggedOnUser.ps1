@@ -1,6 +1,4 @@
-﻿#$creds = Get-Credential
-
-function Get-LoggedOnUser {
+﻿function Get-LoggedOnUser {
     <#
     .SYNOPSIS
     Search for logged on users across one or multiple servers.    

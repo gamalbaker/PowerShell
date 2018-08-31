@@ -1,10 +1,10 @@
 function Restart-CableModem {
     <#
     .SYNOPSIS
-    Restarts Arris cable modem is failed url percentange reaches a certain threshold.
+    Restarts Arris cable modem if failed url percentange reaches a certain threshold.
     
     .DESCRIPTION
-    Restarts Arris cable modem is failed url percentange reaches a certain threshold.
+    Restarts Arris cable modem if failed url percentange reaches a certain threshold.
     
     .PARAMETER UrlPercentRestartThreshold
     Threshold percentage at which the script will attempt to restart the modem.
